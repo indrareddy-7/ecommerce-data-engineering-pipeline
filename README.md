@@ -12,12 +12,21 @@ This system enables organizations to analyze sales performance, customer behavio
 
 ## Project Objectives
 
-- Build a scalable batch ETL pipeline for e-commerce data
-- Process raw transactional datasets stored in AWS S3
-- Apply data cleaning, transformation, and validation
-- Design an analytics-ready star schema model
-- Generate business insights and dashboards
-- Automate pipeline execution using Databricks Workflows
+- The goal of this project is to build a **scalable batch ETL pipeline** for processing e-commerce data and generating analytics-ready insights.
+
+- Ingested raw transactional data from **Amazon S3 (CSV format)** and converted it into optimized **Parquet/Delta format** for efficient processing.
+
+- Implemented a **Medallion Architecture (Bronze, Silver, Gold)** in Databricks to structure data flow from raw to business-ready layers.
+
+- Performed data cleaning and transformation using **PySpark**, including null handling, deduplication, data validation, and standardization.
+
+- Designed **quarantine tables** to capture invalid or malformed records, ensuring high data quality without data loss.
+
+- Built an **analytics-ready Star Schema model** with fact and dimension tables to support efficient querying and reporting.
+
+- Generated business insights using **SQL**, enabling dashboards for sales trends, customer behavior, and product performance.
+
+- Automated the pipeline using **Databricks Workflows**, ensuring reliable scheduling, monitoring, and end-to-end execution.
 
 ---
 
