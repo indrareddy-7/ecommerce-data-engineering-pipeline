@@ -25,8 +25,9 @@ This system enables organizations to analyze sales performance, customer behavio
 
 The pipeline follows a modern Lakehouse Data Engineering Architecture.
 
-<img width="1536" height="1024" alt="ChatGPT Image Mar 13, 2026, 12_04_29 AM" src="https://github.com/user-attachments/assets/3dbaa5fa-dbd0-485a-8458-8311e57b9587" />
 
+
+![object_remover-1773815864000](https://github.com/user-attachments/assets/1eff00c1-4bec-42e3-8162-ce8b6e37844d)
 
 ---
 
