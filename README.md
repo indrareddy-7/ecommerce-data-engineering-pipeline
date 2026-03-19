@@ -1,4 +1,4 @@
-# E-commerce Sales Analytics Pipeline
+
 
 ## Project Overview
 
@@ -214,6 +214,7 @@ The pipeline generates business-ready insights from the Gold layer, structured i
 - Revenue by Product Category
 - Regional Sales Distribution
 
+
 ---
 
 ###  Customer Analytics Insights
@@ -224,6 +225,7 @@ The pipeline generates business-ready insights from the Gold layer, structured i
 - Average Order Value (AOV)
 - Customer Segmentation (Behavior & Region)
 
+
 ---
 
 ###  Strategic Insights
@@ -233,6 +235,7 @@ The pipeline generates business-ready insights from the Gold layer, structured i
 - Product Affinity (Market Basket Analysis)
 - Seller Performance Evaluation
 - Delivery and Fulfillment Performance
+
 
 ---
 
@@ -252,7 +255,7 @@ The Gold layer supports multiple business dashboards designed for different stak
 - Top Selling Products  
 - Revenue by Category  
 - Regional Sales  
-
+<img width="4000" height="4422" alt="d855994d-1" src="https://github.com/user-attachments/assets/39eb0c73-8efc-4260-9ae5-8412c0771359" />
 ---
 
 ###  Customer Analytics Dashboard
@@ -263,6 +266,7 @@ The Gold layer supports multiple business dashboards designed for different stak
 - Repeat Customers  
 - Purchase Frequency  
 - Customer Segmentation  
+<img width="4000" height="3339" alt="e58d4cf5-1" src="https://github.com/user-attachments/assets/284e49a2-a623-49f0-9ecf-1b3062e9a426" />
 
 ---
 
@@ -275,7 +279,7 @@ The Gold layer supports multiple business dashboards designed for different stak
 - Product Affinity Insights  
 - Seller Performance  
 - Delivery Performance  
-
+![Strategic_Insights_Dashboard 2026-03-19 09_37_page-0001](https://github.com/user-attachments/assets/4e2bd730-b8ce-4187-95e7-15c1cc2b23a1)
 ---
 
 ##  Pipeline Automation
