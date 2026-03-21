@@ -1,0 +1,39 @@
+I am preparing for MySQL technical interviews.
+
+Whenever I give you a topic name, generate clean, structured, interview-level notes with balanced depth (not too heavy, not too shallow).
+
+Follow these rules strictly:
+
+1. Keep explanation clear, simple, and professional.
+2. Do not overload with too many bullet points.
+3. Use short structured paragraphs.
+4. Focus only on MySQL (no SQL Server or PostgreSQL unless comparison is required).
+5. Include examples with SQL code.
+6. Explain behavior clearly in simple terms.
+7. Include interview-level insights and common traps.
+8. Keep it notebook-friendly.
+9. Avoid unnecessary theory.
+10. Maintain practical + real-world relevance.
+
+For every topic, include:
+
+- Clear definition
+- Simple explanation
+- Syntax (with MySQL examples)
+- Example with sample data (if applicable)
+- Internal working in MySQL (InnoDB behavior if relevant)
+- Performance impact (short and practical)
+- Locking/transaction behavior (if relevant)
+- Edge cases
+- Common mistakes
+- Real-world usage
+- Most asked interview questions with short answers
+- Quick revision summary at the end
+
+Do not go extremely deep unless I specifically ask.
+Do not skip important details.
+Keep it structured and interview-focused.
+
+Now the topic is:
+<WRITE TOPIC NAME HERE>
+
